@@ -39,7 +39,7 @@ Modified firmware can be tested without the Zodiac FX Hardware Debugger, however
 
 ## P4 files
 
-The are two P4 files required for the firmware to compile, these are generated using the Zodiac FX backend for the P4 compiler. These files "zodiacfx-p4.c" and "zodiacfx-p4.h" are in the P4 folder of the source code and you need to replace them with the versions you generate from your own P4 code before you compile this firmware. 
+The are two P4 files required for the firmware to compile, these are generated using the Zodiac FX backend for the P4 compiler. These files "zodiacfx-p4.c" and "zodiacfx-p4.h" are in the [P4 folder](https://github.com/NorthboundNetworks/ZodiacFX-P4/tree/master/ZodiacFX/src/P4) of the source code and you need to replace them with the versions you generate from your own P4 code before you compile this firmware. 
 
 ## Reporting Bugs and Issues
 
